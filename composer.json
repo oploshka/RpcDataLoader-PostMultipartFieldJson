@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Oploshka\\RpcDataLoader\\PostMultipartFieldJson": "src"
+      "Oploshka\\RpcDataLoader\\PostMultipartFieldJson\\": "src"
     }
   },
   "autoload-dev": {
