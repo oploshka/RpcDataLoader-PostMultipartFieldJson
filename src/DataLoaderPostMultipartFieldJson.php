@@ -1,6 +1,6 @@
 <?php
 
-namespace RpcExample\MultipartPostJsonRpc;
+namespace Oploshka\RpcDataLoader\PostMultipartFieldJson;
 
 
 class DataLoaderPostMultipartFieldJson implements \Oploshka\Rpc\iDataLoader {

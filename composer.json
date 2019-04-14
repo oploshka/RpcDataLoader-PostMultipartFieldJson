@@ -23,8 +23,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "RpcExampleTest\\": "test",
-      "RpcMethodsTest\\": "test/methods"
+      "Oploshka\\RpcDataLoader\\PostMultipartFieldJsonTest\\": "test"
     }
   }
 }
