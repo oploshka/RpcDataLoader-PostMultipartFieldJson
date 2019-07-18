@@ -3,7 +3,7 @@
 namespace Oploshka\RpcDataLoader\PostMultipartFieldJson;
 
 
-class DataLoaderPostMultipartFieldJson implements \Oploshka\Rpc\iDataLoader {
+class DataLoaderPostMultipartFieldJson implements \Oploshka\Rpc\DataLoader {
 
   private $filed ;
   private $Reform;
